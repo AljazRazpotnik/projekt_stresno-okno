@@ -15,7 +15,7 @@ Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej/nazaj preko re
 
 1 arduino uno board,
 
-Protoboard
+Protoboard.
 # Priredbeni seznam:
 ![image](https://user-images.githubusercontent.com/129844167/230311931-388d5784-e2d7-4cf7-9032-3447032cc622.png)
  
