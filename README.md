@@ -23,3 +23,4 @@ Protoboard.
 
 # Slika vezalne sheme:
 # Slika vezja:
+# Komentar:
