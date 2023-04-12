@@ -14,6 +14,7 @@ Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej/nazaj preko re
 1 sg90 servo motor,
 
 1 arduino uno board,
+
 3 senzorji
 
 Protoboard.
