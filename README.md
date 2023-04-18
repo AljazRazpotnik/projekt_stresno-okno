@@ -21,7 +21,7 @@ Protoboard.
  
 ![image](https://user-images.githubusercontent.com/129844167/230312338-d018f66d-73a8-4b0f-a936-e57fb9c45219.png)
 
-# Slika vezalne sheme:
+# Vezalna shema:
 ![image](https://user-images.githubusercontent.com/129844167/231115529-f162a9d5-ba3b-42ba-994d-88188da2cecd.png)
 
 # Slika vezja:
