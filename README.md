@@ -9,7 +9,7 @@ Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej/nazaj preko re
 
 2 senzorja,
 
-1 LED,
+1 LED dioda,
 
 1 220 Ohm upor,
 
