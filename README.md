@@ -25,4 +25,6 @@ Protoboard.
 ![image](https://user-images.githubusercontent.com/129844167/231115529-f162a9d5-ba3b-42ba-994d-88188da2cecd.png)
 
 # Slika vezja:
+![IMG_20230418_112316](https://user-images.githubusercontent.com/129844167/232735480-6970f4a9-55a3-47ba-bd8f-20295241d0e0.jpg)
+
 # Komentar:
