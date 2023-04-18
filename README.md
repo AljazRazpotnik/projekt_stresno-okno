@@ -28,3 +28,5 @@ Protoboard.
 ![IMG_20230418_112316](https://user-images.githubusercontent.com/129844167/232735480-6970f4a9-55a3-47ba-bd8f-20295241d0e0.jpg)
 
 # Komentar:
+Namesto senzorjev na končnih pozicijah smo sprogramirali servo tako, da se ugasne, takoj ko zazna, da je presegel pozicijo. KODA:  if(pos >= 180 || pos <=0) {myservo.detach;}
+//ko senzor zazna, da je presegel pozicije 180 ali 0 (pos>=180 || pos<=0) stopinj, se ugasne (myservo.detach).
